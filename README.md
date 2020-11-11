@@ -283,6 +283,8 @@ Es un algoritmo que agrupa utilizando centroides. El algoritmo funciona asignand
 - Los puntos se reasignan al nuevo centro.
 - El algoritmo se repite de manera iterativa hasta que ya no existen mejoras.
 
+https://www.jacobsoft.com.mx/es_mx/k-means-clustering-con-python/
+
 ## Otras técnicas de agrupamiento
 
 El agrupamiento es una técnica de Machine Learning que consiste, en pocas palabras, en dividir una población en grupos con la consecuencia de que los datos en un grupo son más similares entre ellos que entre los otros grupos.
